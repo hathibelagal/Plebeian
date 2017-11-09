@@ -17,8 +17,9 @@ This is a simple Reddit client created using Flutter. It has the following featu
 You can follow these instructions to build Plebeian and install it onto your device:
 
 * Install Flutter. If you don't know how, refer to the [Flutter Setup](https://flutter.io/setup/) guide.
-* Clone this repository
-* `flutter packages get`
-* `flutter run --release`
+* Clone this repository.
+* Enter the directory created after the clone, and run the following commands:
+__* `flutter packages get`
+__* `flutter run --release`
 
 The last command both builds and installs Plebeian.

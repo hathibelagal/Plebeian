@@ -1,0 +1,17 @@
+name: plebeian
+description: A simple Reddit reader.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.0
+  http: '>=0.11.3+12'
+  url_launcher: ^0.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+

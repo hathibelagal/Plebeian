@@ -19,7 +19,7 @@ You can follow these instructions to build Plebeian and install it onto your dev
 * Install Flutter. If you don't know how, refer to the [Flutter Setup](https://flutter.io/setup/) guide.
 * Clone this repository.
 * Enter the directory created after the clone, and run the following commands:
-__* `flutter packages get`
-__* `flutter run --release`
+  * `flutter packages get`
+  * `flutter run --release`
 
 The last command both builds and installs Plebeian.

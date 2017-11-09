@@ -33,7 +33,7 @@ class _Plebeian extends State<Plebeian> {
     String BASE_URL = "https://www.reddit.com";
     String COMMENTS_BASE_URL = "https://www.reddit.com/comments/";
 
-    String currentSubreddit = "/r/AskReddit";
+    String currentSubreddit = "/r/Science";
     List<Post> posts = [];
     bool loading = true;
 

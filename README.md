@@ -1,3 +1,5 @@
+![Plebeian](https://raw.githubusercontent.com/hathibelagal/Plebeian/master/pic.jpg)
+
 # Plebeian
 
 This is a simple Reddit client created using Flutter. It has the following features:
